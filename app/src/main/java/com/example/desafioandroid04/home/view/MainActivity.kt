@@ -1,4 +1,4 @@
-package com.example.desafioandroid04.home
+package com.example.desafioandroid04.home.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
