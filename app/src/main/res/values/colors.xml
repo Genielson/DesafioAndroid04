@@ -8,4 +8,5 @@
     <color name="colorLightBlue">#00A6FF</color>
     <color name="colorLightHint">#8492A6</color>
     <color name="colorGray">#DDDDDD</color>
+    <color name="colorGrayYear">#8492A6</color>
 </resources>
